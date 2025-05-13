@@ -6,6 +6,7 @@
 
 🌱 Currently mastering:
 🛠️ Advanced DevSecOps on AWS | ⚙️ Event-Driven Architectures | 🧩 Micro Frontend Engineering | 🧠 AI in Fintech & Fraud Detection
+🔸 Graduated with a B.Tech in Computer Science (Gaming Technology) from VIT Bhopal, where I built games using Unity & Unreal, and deepened my skills in algorithms, computer graphics, and system design
 
 💼 I specialize in:
 🔸 Building insurance and fintech applications using Java 17, Spring Boot, ReactJS, and Kafka  
