@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Sai Madhav Chelpuri (aka @saimadhav)
 
 🚀 I’m passionate about:
-💻 Full Stack Java Development | ☁️ Cloud-Native Architecture | 🔐 Secure Systems | 📊 Real-Time Data Engineering | 🌐 Scalable Microservices
+💻 Full Stack Development | ☁️ Cloud-Native Architecture | 🔐 Secure Systems | 📊 Real-Time Data Engineering | 🌐 Scalable Microservices
 
 🌱 Currently mastering:
 🛠️ Advanced DevSecOps on AWS | ⚙️ Event-Driven Architectures | 🧩 Micro Frontend Engineering | 🧠 AI in Fintech & Fraud Detection
